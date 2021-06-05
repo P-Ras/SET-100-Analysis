@@ -1,0 +1,101 @@
+,symbol,company,sector,industry
+0,ACE.BK,ABSOLUTE CLEAN ENERGY PCL,Utilities,Utilities—Renewable
+1,KKP.BK,KIATNAKIN PHATRA BANK PCL,Financial Services,Banks—Regional
+2,ADVANC.BK,ADVANCED INFO SERVICE PCL,Communication Services,Telecom Services
+3,KTB.BK,KRUNG THAI BANK PCL,Financial Services,Banks—Regional
+4,AEONTS.BK,AEON THANA SINSAP (THAILAND) PCL,Financial Services,Credit Services
+5,KTC.BK,KRUNGTHAI CARD PCL,Financial Services,Credit Services
+6,AMATA.BK,AMATA CORPORATION PCL,Real Estate,Real Estate—Development
+7,LH.BK,LAND AND HOUSES PCL,Real Estate,Real Estate—Development
+8,AOT.BK,AIRPORTS OF THAILAND PCL,Industrials,Airports & Air Services
+9,MAJOR.BK,MAJOR CINEPLEX GROUP PCL,Communication Services,Entertainment
+10,AP.BK,AP (THAILAND) PCL,Real Estate,Real Estate—Development
+11,MBK.BK,MBK PCL,Real Estate,Real Estate Services
+12,AWC.BK,ASSET WORLD CORP PCL,Consumer Cyclical,Lodging
+13,MEGA.BK,MEGA LIFESCIENCES PCL,Healthcare,Drug Manufacturers—Specialty & Generic
+14,BAM.BK,BANGKOK COMMERCIAL ASSET MANAGEMENT PCL,Financial Services,Asset Management
+15,MINT.BK,MINOR INTERNATIONAL PCL,Consumer Cyclical,Lodging
+16,BANPU.BK,BANPU PCL,Energy,Thermal Coal
+17,MTC.BK,MUANGTHAI CAPITAL PCL,Financial Services,Credit Services
+18,BBL.BK,BANGKOK BANK PCL,Financial Services,Banks—Regional
+19,OR.BK,PTT OIL AND RETAIL BUSINESS PCL,Energy,Oil & Gas Refining & Marketing
+20,BCH.BK,BANGKOK CHAIN HOSPITAL PCL,Healthcare,Medical Care Facilities
+21,ORI.BK,ORIGIN PROPERTY PCL,Real Estate,Real Estate—Development
+22,BCP.BK,BANGCHAK CORPORATION PCL,Energy,Oil & Gas Refining & Marketing
+23,BCPG.BK,BCPG PCL,Utilities,Utilities—Renewable
+24,OSP.BK,OSOTSPA PCL,Consumer Defensive,Beverages—Non-Alcoholic
+25,PLANB.BK,PLAN B MEDIA PCL,Communication Services,Advertising Agencies
+26,BDMS.BK,BANGKOK DUSIT MEDICAL SERVICES PCL,Healthcare,Medical Care Facilities
+27,PRM.BK,PRIMA MARINE PCL,Energy,Oil & Gas Midstream
+28,BEC.BK,BEC WORLD PCL,Communication Services,Broadcasting
+29,PTG.BK,PTG ENERGY PCL,Consumer Cyclical,Specialty Retail
+30,BEM.BK,BANGKOK EXPRESSWAY AND METRO  PCL,Industrials,Railroads
+31,PTT.BK,PTT PCL,Energy,Oil & Gas Integrated
+32,BGRIM.BK,B.GRIMM POWER PCL,Utilities,Utilities—Independent Power Producers
+33,PTTEP.BK,PTT EXPLORATION AND PRODUCTION PCL,Energy,Oil & Gas E&P
+34,BH.BK,BUMRUNGRAD HOSPITAL PCL,Healthcare,Medical Care Facilities
+35,PTTGC.BK,PTT GLOBAL CHEMICAL PCL,Basic Materials,Chemicals
+36,BJC.BK,BERLI JUCKER PCL,Industrials,Conglomerates
+37,QH.BK,QUALITY HOUSES PCL,Real Estate,Real Estate—Diversified
+38,BPP.BK,BANPU POWER PCL,Utilities,Utilities—Independent Power Producers
+39,RATCH.BK,RATCH GROUP PCL,Utilities,Utilities—Regulated Electric
+40,BTS.BK,BTS GROUP HOLDINGS PCL,Industrials,Railroads
+41,RBF.BK,R&B FOOD SUPPLY PCL,Consumer Defensive,Packaged Foods
+42,CBG.BK,CARABAO GROUP PCL,Consumer Defensive,Beverages—Non-Alcoholic
+43,RS.BK,RS PCL,Communication Services,Entertainment
+44,CENTEL.BK,CENTRAL PLAZA HOTEL PCL,Consumer Cyclical,Resorts & Casinos
+45,SAWAD.BK,SRISAWAD CORPORATION PCL,Financial Services,Credit Services
+46,CHG.BK,CHULARAT HOSPITAL PCL,Healthcare,Medical Care Facilities
+47,SCB.BK,THE SIAM COMMERCIAL BANK PCL,Financial Services,Banks—Regional
+48,CK.BK,CH. KARNCHANG PCL,Industrials,Engineering & Construction
+49,SCC.BK,THE SIAM CEMENT PCL,Basic Materials,Specialty Chemicals
+50,CKP.BK,CK POWER PCL,Utilities,Utilities—Renewable
+51,SCGP.BK,SCG PACKAGING PCL,Consumer Cyclical,Packaging & Containers
+52,COM.BK,COM7 PCL,Home prices rose by more than 50% in these 10 markets since 2017,American Apparel and Footwear Association CEO on the retail labor shortage
+53,CPALL.BK,CP ALL PCL,Consumer Defensive,Grocery Stores
+54,SPALI.BK,SUPALAI PCL,Real Estate,Real Estate—Development
+55,SPRC.BK,STAR PETROLEUM REFINING PCL,Energy,Oil & Gas Refining & Marketing
+56,CPF.BK,CHAROEN POKPHAND FOODS PCL,Consumer Defensive,Farm Products
+57,STA.BK,SRI TRANG AGRO-INDUSTRY PCL,Consumer Cyclical,Auto Parts
+58,CPN.BK,CENTRAL PATTANA PCL,Real Estate,Real Estate—Diversified
+59,STEC.BK,SINO-THAI ENGINEERING AND CONSTRUCTION PCL,Industrials,Engineering & Construction
+60,CRC.BK,CENTRAL RETAIL CORPORATION PCL,Consumer Cyclical,Department Stores
+61,SUPER.BK,SUPER ENERGY CORPORATION PCL,Utilities,Utilities—Renewable
+62,DELTA.BK,DELTA ELECTRONICS (THAILAND) PCL,Industrials,Electrical Equipment & Parts
+63,TASCO.BK,TIPCO ASPHALT PCL,Basic Materials,Building Materials
+64,DOHOME.BK,DOHOME PCL,Consumer Cyclical,Home Improvement Retail
+65,TCAP.BK,THANACHART CAPITAL PCL,Financial Services,Financial Conglomerates
+66,DTAC.BK,TOTAL ACCESS COMMUNICATION PCL,Communication Services,Telecom Services
+67,THANI.BK,RATCHTHANI LEASING PCL,Financial Services,Credit Services
+68,EA.BK,ENERGY ABSOLUTE PCL,Utilities,Utilities—Renewable
+69,EGCO.BK,ELECTRICITY GENERATING PCL,Utilities,Utilities—Independent Power Producers
+70,TISCO.BK,TISCO FINANCIAL GROUP PCL,Financial Services,Banks—Regional
+71,TMB.BK,TMB BANK PCL,Financial Services,Banks—Regional
+72,EPG.BK,EASTERN POLYMER GROUP PCL,Basic Materials,Specialty Chemicals
+73,TOA.BK,TOA PAINT (THAILAND) PCL,Basic Materials,Specialty Chemicals
+74,ESSO.BK,ESSO (THAILAND) PCL,Energy,Oil & Gas Refining & Marketing
+75,TOP.BK,THAI OIL PCL,Energy,Oil & Gas Refining & Marketing
+76,GFPT.BK,GFPT PCL,Consumer Defensive,Packaged Foods
+77,GLOBAL.BK,SIAM GLOBAL HOUSE PCL,Consumer Cyclical,Home Improvement Retail
+78,GPSC.BK,GLOBAL POWER SYNERGY PCL,Utilities,Utilities—Regulated Electric
+79,GULF.BK,GULF ENERGY DEVELOPMENT PCL,Utilities,Utilities—Renewable
+80,GUNKUL.BK,GUNKUL ENGINEERING PCL,Industrials,Conglomerates
+81,TPIPP.BK,TPI POLENE POWER PCL,Utilities,Utilities—Renewable
+82,TQM.BK,TQM CORPORATION PCL,Financial Services,Insurance Brokers
+83,TTW.BK,TTW PCL,Utilities,Utilities—Regulated Water
+84,TU.BK,THAI UNION GROUP PCL,Consumer Defensive,Packaged Foods
+85,TRUE.BK,TRUE CORPORATION PCL,Communication Services,Telecom Services
+86,HANA.BK,HANA MICROELECTRONICS PCL,Technology,Electronic Components
+87,TVO.BK,THAI VEGETABLE OIL PCL,Consumer Defensive,Packaged Foods
+88,HMPRO.BK,HOME PRODUCT CENTER PCL,Consumer Cyclical,Home Improvement Retail
+89,VGI.BK,VGI PCL,Communication Services,Advertising Agencies
+90,INTUCH.BK,INTOUCH HOLDINGS PCL,Communication Services,Telecom Services
+91,WHA.BK,WHA CORPORATION PCL,Real Estate,Real Estate Services
+92,IRPC.BK,IRPC PCL,Energy,Oil & Gas Refining & Marketing
+93,WHAUP.BK,WHA UTILITIES AND POWER PCL,Utilities,Utilities—Regulated Water
+94,IVL.BK,INDORAMA VENTURES PCL,Basic Materials,Chemicals
+95,JAS.BK,JASMINE INTERNATIONAL PCL,Communication Services,Telecom Services
+96,JMART.BK,JAY MART PCL,Consumer Cyclical,Specialty Retail
+97,JMT.BK,JMT NETWORK SERVICES PCL,Financial Services,Credit Services
+98,KBANK.BK,KASIKORNBANK PCL,Financial Services,Banks—Regional
+99,KCE.BK,KCE ELECTRONICS PCL,Technology,Electronic Components
